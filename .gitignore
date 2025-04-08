@@ -1,0 +1,9 @@
+mi_entorno/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.env
+.DS_Store
